@@ -160,3 +160,177 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/siteprojetocon
 2017-07-28 20:53:02,694 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-07-28 20:53:02,703 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-07-28 20:53:02,718 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:18:21,422 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:18:24,912 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:24,914 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:18:24,916 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:24,918 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:18:24,965 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:18:24,967 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:18:24,988 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:27,239 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:27,241 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 21:18:27,253 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:27,254 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:18:33,657 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:33,660 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:18:33,663 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:33,664 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:18:38,156 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 21:18:38,156 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 21:18:58,730 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:58,733 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:18:58,736 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:18:58,738 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:20:03,202 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:20:08,849 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:20:08,863 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:20:08,870 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:20:08,873 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:20:08,874 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:20:08,875 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:20:08,892 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:20:14,554 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:20:14,557 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 21:20:14,571 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:20:14,573 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:20:14,660 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 21:20:14,660 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 21:20:30,498 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:20:30,499 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:20:30,506 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:20:30,508 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:22:11,350 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:22:13,546 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:22:13,547 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:22:17,949 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:22:20,228 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:22:20,229 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:22:20,231 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:22:20,232 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:22:20,232 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:22:20,232 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:22:20,236 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:22:29,714 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 21:22:29,715 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 21:24:34,029 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:24:36,870 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:24:36,872 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:24:36,875 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:24:36,877 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:24:36,877 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:24:36,877 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:24:36,885 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:24:39,796 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:24:39,799 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 21:24:39,802 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:24:39,804 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:24:40,948 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 21:24:40,948 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 21:25:03,834 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:03,837 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:25:03,840 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:03,842 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:25:11,744 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:25:15,016 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:15,019 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:25:15,021 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:15,024 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:25:15,025 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:25:15,026 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:25:15,034 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:18,266 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:25:20,954 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:20,957 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 21:25:20,971 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:20,972 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:25:20,972 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:25:20,973 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:25:20,978 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:23,183 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:23,186 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 21:25:23,200 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:23,201 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:25:26,494 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:25:29,123 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:29,125 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:25:29,127 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:29,129 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:25:29,130 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:25:29,130 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:25:29,135 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:31,730 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 21:25:31,730 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 21:25:52,896 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:52,899 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:25:52,907 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:25:52,909 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:26:57,297 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:26:59,210 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:26:59,211 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:27:02,446 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:27:05,189 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:27:05,192 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 21:27:05,206 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:27:05,207 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:27:05,208 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:27:05,208 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:27:05,213 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:27:10,251 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 21:27:10,252 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 21:27:33,137 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:27:33,140 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:27:33,143 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:27:33,145 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:28:37,017 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:28:39,839 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:28:39,841 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:28:39,843 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:28:39,845 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:28:39,846 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:28:39,847 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:28:39,854 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:28:54,536 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:28:57,126 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:28:57,128 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:28:57,131 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:28:57,133 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:28:57,134 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:28:57,134 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:28:57,140 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:28:58,503 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:29:01,638 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:29:01,640 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:29:01,642 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:29:01,643 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:29:01,644 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:29:01,644 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:29:01,649 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:29:04,326 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:29:04,329 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 21:29:04,345 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:29:04,348 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:29:22,720 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 21:29:22,721 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 21:29:42,638 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:29:42,640 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:29:42,642 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:29:42,644 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:30:18,534 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 21:30:21,822 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:30:21,825 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:30:21,827 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:30:21,829 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:30:21,830 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of documentadorsoftware
+2017-07-28 21:30:21,830 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for documentadorsoftware
+2017-07-28 21:30:21,838 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:30:24,816 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:30:24,819 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 21:30:24,835 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:30:24,838 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 21:30:26,031 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 21:30:26,032 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 21:30:47,882 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:30:47,884 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 21:30:47,886 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 21:30:47,887 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
