@@ -1,0 +1,162 @@
+2017-07-28 14:57:23,932 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 14:57:36,914 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /siteprojetocontatos/src/main/java
+2017-07-28 14:57:36,916 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /siteprojetocontatos/src/main/resources
+2017-07-28 14:57:36,918 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /siteprojetocontatos/src/test/java
+2017-07-28 14:57:37,198 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 14:57:40,661 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 28 sec
+2017-07-28 14:57:46,204 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 14:57:52,207 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 14:57:56,887 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 14:57:56,971 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 14:57:57,015 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 14:57:57,016 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 14:58:02,217 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 14:58:18,112 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 14:58:18,116 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 14:58:18,117 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 14:58:18,118 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 15:02:34,424 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 15:02:34,428 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 15:02:34,431 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 15:02:34,434 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 15:04:32,831 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos
+2017-07-28 15:04:32,834 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 15:08:54,874 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos
+2017-07-28 15:08:54,875 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 15:09:21,294 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 15:09:21,296 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 15:09:21,298 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 15:09:21,300 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 15:13:36,270 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-28 15:13:37,074 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 15:13:43,506 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /siteprojetocontatos/src/main/java
+2017-07-28 15:13:43,506 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /siteprojetocontatos/src/main/resources
+2017-07-28 15:13:43,507 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /siteprojetocontatos/src/test/java
+2017-07-28 15:13:44,659 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 15:13:48,096 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for siteprojetocontatos
+2017-07-28 15:13:48,111 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2017-07-28 15:13:51,596 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 15:13:51,601 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 15:13:51,638 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 15:13:51,642 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 20:19:10,876 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:19:10,904 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 20:19:10,922 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:19:10,923 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 20:23:11,327 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:23:11,373 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 20:23:11,373 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:23:11,373 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 20:23:26,716 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:23:26,716 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 20:23:26,716 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:23:26,731 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 20:23:41,311 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:23:41,311 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 20:23:41,311 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:23:41,311 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 20:23:45,951 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos
+2017-07-28 20:23:45,951 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:24:17,559 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos
+2017-07-28 20:24:17,559 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:28:38,918 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.projeto:sistemagerenciador:0.0.1-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\sistemagerenciador\pom.xml.
+2017-07-28 20:28:47,314 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sistemagerenciador/src/main/java
+2017-07-28 20:28:47,315 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sistemagerenciador/src/main/resources
+2017-07-28 20:28:47,316 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sistemagerenciador/src/test/java
+2017-07-28 20:28:47,316 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sistemagerenciador/src/test/resources
+2017-07-28 20:28:47,532 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.projeto:sistemagerenciador:0.0.1-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\sistemagerenciador\pom.xml.
+2017-07-28 20:28:48,362 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2017-07-28 20:28:58,507 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.projeto:sistemagerenciador:0.0.1-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\sistemagerenciador\pom.xml.
+2017-07-28 20:29:02,696 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-28 20:29:02,697 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-28 20:29:02,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-28 20:29:02,699 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-28 20:30:03,196 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\sistemagerenciador
+2017-07-28 20:30:03,197 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:32:05,781 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\sistemagerenciador
+2017-07-28 20:32:05,781 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:32:28,928 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-28 20:32:28,929 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:32:28,932 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-28 20:32:28,933 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:33:03,870 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\sistemagerenciador
+2017-07-28 20:33:03,871 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:34:19,957 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\sistemagerenciador
+2017-07-28 20:34:19,957 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:34:41,725 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-28 20:34:41,726 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:34:41,729 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-28 20:34:41,730 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:38:23,654 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\sistemagerenciador
+2017-07-28 20:38:23,655 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:38:44,424 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-28 20:38:44,426 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:38:44,434 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-28 20:38:44,435 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:40:14,719 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 20:40:21,801 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /siteprojetocontatos/src/main/java
+2017-07-28 20:40:21,801 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /siteprojetocontatos/src/main/resources
+2017-07-28 20:40:21,802 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /siteprojetocontatos/src/test/java
+2017-07-28 20:40:22,191 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2017-07-28 20:40:22,707 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\pom.xml.
+2017-07-28 20:40:30,648 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:40:30,650 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 20:40:30,658 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:40:30,658 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos\src\test\resources
+2017-07-28 20:41:09,334 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\siteprojetocontatos
+2017-07-28 20:41:09,335 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:46:24,123 [Worker-22] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - Resource '/siteprojetocontatos/pom.xml' does not exist.
+org.eclipse.core.internal.resources.ResourceException: Resource '/siteprojetocontatos/pom.xml' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341) ~[na:na]
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215) ~[na:na]
+	at org.eclipse.core.internal.resources.Resource.deleteMarkers(Resource.java:846) ~[na:na]
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.deleteMarkers(MavenMarkerManager.java:232) ~[na:na]
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.deleteMarkers(MavenMarkerManager.java:226) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:655) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:377) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:95) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:93) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+2017-07-28 20:46:25,678 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 20:46:29,215 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 20:46:33,597 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:46:33,599 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 20:46:33,611 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:46:33,612 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 20:46:36,860 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.karanalpe:template-admin-faces:1.0.0-SNAPSHOT @ D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\pom.xml.
+2017-07-28 20:46:55,320 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:46:55,323 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-28 20:46:55,334 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:46:55,335 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 20:46:57,503 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 20:46:57,504 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:47:20,033 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:47:20,034 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:47:20,036 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:47:20,037 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 20:47:31,313 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:47:31,317 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:47:31,320 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:47:31,322 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 20:52:33,119 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:52:33,122 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:52:33,125 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:52:33,129 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
+2017-07-28 20:52:38,588 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware
+2017-07-28 20:52:38,589 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-28 20:53:02,688 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:53:02,694 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-28 20:53:02,703 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 20:53:02,718 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\documentadorsoftware\src\test\resources
