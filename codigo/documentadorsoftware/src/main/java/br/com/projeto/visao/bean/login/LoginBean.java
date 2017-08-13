@@ -59,6 +59,8 @@ public class LoginBean {
 					HttpSession session = (HttpSession) contexto.getExternalContext().getSession(false);
 					session.setAttribute(Constantes.ID_USUARIO, usuario.getCodigo());
 					
+					FacesContext.getCurrentInstance().getExternalContext().getSessionMap().put("nomeUsuario",usuario.getNome());
+					
 					Faces.redirect("pages/cadastro/contato/listaContato.xhtml");
 			} catch (IOException e) {
 				e.printStackTrace();
