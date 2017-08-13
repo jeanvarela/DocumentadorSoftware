@@ -13,6 +13,7 @@ import org.omnifaces.util.Faces;
 import br.com.projeto.controlador.login.ControladorLogin;
 import br.com.projeto.controlador.login.IControladorLogin;
 import br.com.projeto.modelo.entidade.usuario.Usuario;
+import br.com.projeto.util.constante.Constantes;
 
 @ManagedBean(name="login")
 @ViewScoped
@@ -56,8 +57,7 @@ public class LoginBean {
 				
 					FacesContext contexto = FacesContext.getCurrentInstance();
 					HttpSession session = (HttpSession) contexto.getExternalContext().getSession(false);
-					session.setAttribute("ID_USUARIO", usuario.getCodigo());
-					session.setAttribute("NOME_USUARIO",usuario.getNome());
+					session.setAttribute(Constantes.ID_USUARIO, usuario.getCodigo());
 					
 					Faces.redirect("pages/cadastro/contato/listaContato.xhtml");
 			} catch (IOException e) {
