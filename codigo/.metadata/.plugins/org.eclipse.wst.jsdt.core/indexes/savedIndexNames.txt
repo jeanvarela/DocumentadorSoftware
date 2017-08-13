@@ -1,6 +1,0 @@
-INDEX VERSION 1.3+D:\jean\repositorio\workspace\ProjetoDocumentadorSoftware\codigo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1356359903.index
-3032766507.index
-4125762229.index
-2704361761.index
-2494626017.index
