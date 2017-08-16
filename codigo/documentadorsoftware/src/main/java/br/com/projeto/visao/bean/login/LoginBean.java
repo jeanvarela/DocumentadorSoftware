@@ -14,6 +14,8 @@ import br.com.projeto.controlador.login.ControladorLogin;
 import br.com.projeto.controlador.login.IControladorLogin;
 import br.com.projeto.modelo.entidade.usuario.Usuario;
 import br.com.projeto.util.constante.Constantes;
+import br.com.projeto.util.exception.TesteException;
+import br.com.projeto.util.mensagens.MensagensUtil;
 
 @ManagedBean(name="login")
 @ViewScoped
@@ -66,21 +68,7 @@ public class LoginBean {
 				e.printStackTrace();
 			}
 		}else{
-			exibeMensagem("Login e/ou senha inválidos");
+			throw new TesteException(FacesContext.getCurrentInstance(),"formLogin:senha",MensagensUtil.getMensagem("loginSenhaInvalidos"));
 		}
-	}
-	
-	/**
-	 * @author JEAN
-	 * 
-	 * Função: Método utilizado para exibir uma mensagem de alerta na tela
-	 */
-	private void exibeMensagem(String conteudo){
-		FacesContext context = FacesContext.getCurrentInstance();
-		FacesMessage mensagem = new FacesMessage(FacesMessage.SEVERITY_ERROR, null,conteudo);
-		
-		context.addMessage("formLogin:senha", mensagem);
-		
-	}
-	
+	}	
 }
