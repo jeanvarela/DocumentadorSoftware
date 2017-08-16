@@ -28,6 +28,7 @@ public class LoginFilter implements Filter {
         	 Long idUsuario = (Long)request.getSession().getAttribute(Constantes.ID_USUARIO);
         	 
         	 if (idUsuario == null  && !request.getRequestURI().endsWith("/login.xhtml")
+        			                && !request.getRequestURI().endsWith("/cadastro.xhtml")
         			                && !request.getRequestURI().contains("/javax.faces.resource/")) {
         			 response.sendRedirect(request.getContextPath()	 + "/login.xhtml");
         	 } else {

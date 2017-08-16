@@ -5,4 +5,19 @@
 	<application>
 		<resource-handler>org.omnifaces.resourcehandler.CombinedResourceHandler</resource-handler>
 	</application>
+	<factory>
+	  <exception-handler-factory>
+	    br.com.projeto.util.exception.CustomExceptionHandlerFactory 
+	  </exception-handler-factory>
+	</factory>
+	
+	<application>
+      <locale-config>
+         <default-locale>pt</default-locale>
+      </locale-config>
+      <resource-bundle>
+         <base-name>mensagem.messages</base-name>
+         <var>msg</var>
+      </resource-bundle>
+   </application>
 </faces-config>
